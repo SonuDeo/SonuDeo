@@ -90,7 +90,7 @@ My goal is to transform raw data into actionable insights through clean analysis
 <h3 align="center">⭐️ “Code. Learn. Build. Repeat.”</h3>
 
 <p align="center">
-  — <b>Anish Kumar</b>
+  — <b>Sonu Kumar</b>
 </p>
 
 <div align="center">
