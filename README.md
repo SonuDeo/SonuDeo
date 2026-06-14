@@ -5,8 +5,17 @@
 </p>
 
 <p align="center">
-I’m a dedicated data enthusiast who loves working with <b> data to extract meaningful insights and drive decisions.</b>I specialize in <b>data analysis, visualization, and building data-driven solutions</b> — using mordern tools and technologies.<br/>
-My goal is to transform raw data into actionable insights through clean analysis, powerful visualizations, and logical thinking. I enjoy solving real-world problems and continuously learning new tools in the field of data science.
+### Hi, I'm Sonu 👋
+
+→ Developer focused on **data analytics, automation, and AI-powered workflows**.
+
+- 🔭 Working with **Python, JavaScript, and C**
+- ▪ Data analysis using **Pandas, NumPy, Matplotlib, MySQL & Power BI**
+- ⚙️ Building automations with **n8n, APIs, webhooks & MCP**
+- 🌱 Currently exploring **AI tools (Claude) and workflow automation**
+- 📜 Certified by **Anthropic, Microsoft & Deloitte**
+
+📫 Reach me: [Email][sonudeo346@gmail.com / [LinkedIn](https://www.linkedin.com/in/sonu-45-kumar/)]
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
