@@ -74,6 +74,30 @@
 
 ---
 
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo/Sales-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Sales-Data-Analysis&theme=tokyonight&hide_border=true" alt="Sales Data Analysis"/>
+  </a>
+  <a href="https://github.com/SonuDeo/HR-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=HR-Analytics-Dashboard&theme=tokyonight&hide_border=true" alt="HR Analytics Dashboard"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SonuDeo/Customer-Churn-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Customer-Churn-Prediction&theme=tokyonight&hide_border=true" alt="Customer Churn Prediction"/>
+  </a>
+</p>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Sales Data Analysis](https://github.com/SonuDeo/Sales-Data-Analysis) | EDA and visualization on retail sales data - trends, patterns, and insights | Python, Pandas, Matplotlib, Seaborn |
+| [HR Analytics Dashboard](https://github.com/SonuDeo/HR-Analytics-Dashboard) | Employee attrition analysis with SQL queries and Python visualizations | Python, SQL, Pandas, Seaborn |
+| [Customer Churn Prediction](https://github.com/SonuDeo/Customer-Churn-Prediction) | ML pipeline predicting telecom customer churn with 89% accuracy | Python, Scikit-learn, Pandas |
+
+---
+
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
