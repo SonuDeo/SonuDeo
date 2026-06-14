@@ -28,52 +28,19 @@ My goal is to transform raw data into actionable insights through clean analysis
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anishwebdeveloper&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishwebdeveloper&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=Anishwebdeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anishwebdeveloper&theme=gruvbox&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
 <h2 align="center">✍️ Developer Quote</h2>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-<h2 align="center">🔝 Top Contributed Repositories</h2>
-
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/Anishwebdeveloper/uber-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloperh&repo=uber-data-analysis&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-  
-  <a href="https://github.com/Anishwebdeveloper/student_result_management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-SECOND-REPO&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-</p>
 
 <p align="center">
   <!-- Row 2 -->
-  <a href="https://github.com/DSanish/YOUR-THIRD-REPO">
+  <!-- <a href="https://github.com/DSanish/YOUR-THIRD-REPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-THIRD-REPO&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
-  
-  <a href="https://github.com/Anishwebdeveloper/YOUR-FOURTH-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-FOURTH-REPO&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-</p>
+
 
 <h2 align="center">👀 Profile Views</h2>
 
