@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Sales trend analytics preview">
+  <rect width="800" height="450" fill="#0b1220"/>
+  <text x="40" y="64" font-family="sans-serif" font-size="24" fill="#f1f5f9" font-weight="700">Monthly Sales Trend Analytics</text>
+  <!-- axes -->
+  <line x1="70" y1="380" x2="760" y2="380" stroke="#334155" stroke-width="2"/>
+  <line x1="70" y1="110" x2="70" y2="380" stroke="#334155" stroke-width="2"/>
+  <!-- line chart -->
+  <polyline points="70,330 170,300 270,320 370,240 470,260 570,180 670,200 760,130" fill="none" stroke="#22d3ee" stroke-width="4"/>
+  <polygon points="70,330 170,300 270,320 370,240 470,260 570,180 670,200 760,130 760,380 70,380" fill="#22d3ee" opacity="0.12"/>
+  <g fill="#a855f7">
+    <circle cx="370" cy="240" r="6"/><circle cx="570" cy="180" r="6"/><circle cx="760" cy="130" r="6"/>
+  </g>
+  <text x="760" y="430" text-anchor="end" font-family="monospace" font-size="14" fill="#64748b">Python · Pandas · Seaborn</text>
+</svg>
