@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Power BI dashboard preview">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <rect x="40" y="40" width="720" height="56" rx="10" fill="#1e293b"/>
+  <text x="64" y="76" font-family="sans-serif" font-size="22" fill="#f1f5f9" font-weight="700">Data Professional Survey Dashboard</text>
+  <!-- KPI cards -->
+  <g>
+    <rect x="40" y="116" width="170" height="90" rx="12" fill="#1e293b"/>
+    <rect x="222" y="116" width="170" height="90" rx="12" fill="#1e293b"/>
+    <rect x="404" y="116" width="170" height="90" rx="12" fill="#1e293b"/>
+    <rect x="586" y="116" width="174" height="90" rx="12" fill="#1e293b"/>
+  </g>
+  <g fill="#fbbf24" font-family="sans-serif" font-weight="800" font-size="28">
+    <text x="64" y="172">1,000+</text><text x="246" y="172">$82k</text><text x="428" y="172">7.2/10</text><text x="610" y="172">14</text>
+  </g>
+  <!-- bar chart -->
+  <g fill="#38bdf8">
+    <rect x="60" y="360" width="40" height="60"/><rect x="120" y="320" width="40" height="100"/>
+    <rect x="180" y="280" width="40" height="140"/><rect x="240" y="340" width="40" height="80"/>
+    <rect x="300" y="300" width="40" height="120"/>
+  </g>
+  <!-- donut -->
+  <circle cx="560" cy="330" r="70" fill="none" stroke="#334155" stroke-width="26"/>
+  <circle cx="560" cy="330" r="70" fill="none" stroke="#a855f7" stroke-width="26" stroke-dasharray="280 440" transform="rotate(-90 560 330)"/>
+  <text x="700" y="430" text-anchor="end" font-family="monospace" font-size="14" fill="#64748b">Power BI · DAX · Power Query</text>
+</svg>

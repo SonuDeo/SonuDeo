@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Autonomous data pipeline preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/><stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <g stroke="#38bdf8" stroke-width="3" fill="none" opacity="0.8">
+    <path d="M120 225 H300"/><path d="M380 225 H560"/><path d="M640 160 V290"/>
+  </g>
+  <g fill="#a855f7">
+    <rect x="60" y="185" width="80" height="80" rx="14"/>
+  </g>
+  <g fill="#38bdf8">
+    <rect x="300" y="185" width="80" height="80" rx="14"/>
+    <rect x="560" y="185" width="80" height="80" rx="14"/>
+  </g>
+  <circle cx="690" cy="160" r="22" fill="#22d3ee"/>
+  <circle cx="690" cy="290" r="22" fill="#22d3ee"/>
+  <text x="400" y="60" text-anchor="middle" font-family="monospace" font-size="26" fill="#e2e8f0" font-weight="700">{ AI Data Enrichment Pipeline }</text>
+  <text x="400" y="400" text-anchor="middle" font-family="monospace" font-size="18" fill="#64748b">scrape → parse → structure → qualify</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" width="480" height="600" role="img" aria-label="Profile photo placeholder for Sonu Kumar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#card)"/>
+  <circle cx="240" cy="220" r="120" fill="url(#bg)" opacity="0.25"/>
+  <circle cx="240" cy="210" r="78" fill="url(#bg)"/>
+  <path d="M120 540c0-78 54-132 120-132s120 54 120 132z" fill="url(#bg)"/>
+  <text x="240" y="585" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#94a3b8" font-weight="600">Add your photo → /public/images/profile.jpg</text>
+</svg>
