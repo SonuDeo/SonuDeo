@@ -8,6 +8,7 @@ import {
   MapPin,
   Sparkles,
   Binary,
+  Mail,
 } from "lucide-react";
 import { personal, socials } from "@/data/portfolio";
 import { HeroBackground } from "@/components/three/HeroBackground";
@@ -56,20 +57,27 @@ export function Hero({ onOpenResume }: { onOpenResume: () => void }) {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-500" />
             </span>
-            Available for internships & full-time roles
+            Available for internships &amp; full-time roles
           </motion.span>
+
+          <motion.p
+            variants={item}
+            className="font-mono text-sm font-medium text-accent"
+          >
+            Hi, I&apos;m {personal.name} —
+          </motion.p>
 
           <motion.h1
             variants={item}
-            className="font-display text-4xl font-bold leading-[1.1] tracking-tight sm:text-6xl"
+            className="font-display text-4xl font-bold leading-[1.08] tracking-tight sm:text-6xl"
           >
-            Hi, I&apos;m{" "}
-            <span className="gradient-text">{personal.name}</span>
+            Transforming Data Into{" "}
+            <span className="gradient-text">Intelligent Business Decisions</span>
           </motion.h1>
 
           <motion.div
             variants={item}
-            className="font-mono text-lg font-medium text-foreground sm:text-2xl"
+            className="font-mono text-base font-medium text-foreground sm:text-xl"
           >
             <TypingEffect words={personal.roles} className="gradient-text" />
           </motion.div>
@@ -78,32 +86,33 @@ export function Hero({ onOpenResume }: { onOpenResume: () => void }) {
             variants={item}
             className="max-w-xl text-balance text-base leading-relaxed text-muted sm:text-lg"
           >
-            {personal.tagline}. I transform messy data into clean dashboards,
-            automated pipelines and decisions teams can trust.
+            {personal.subheadline}
           </motion.p>
 
-          <motion.div variants={item} className="flex items-center gap-2 text-sm text-muted">
+          <motion.div
+            variants={item}
+            className="flex items-center gap-2 text-sm text-muted"
+          >
             <MapPin size={15} className="text-accent" />
             {personal.location}
           </motion.div>
 
-          <motion.div variants={item} className="flex flex-wrap items-center gap-3">
+          <motion.div
+            variants={item}
+            className="flex flex-wrap items-center gap-3"
+          >
             <MagneticButton href="#projects">
-              <Sparkles size={16} /> View My Work
+              <Sparkles size={16} /> View Projects
             </MagneticButton>
             <MagneticButton variant="ghost" onClick={onOpenResume}>
-              <Download size={16} /> Resume
+              <Download size={16} /> Download Resume
             </MagneticButton>
-            <button
-              onClick={() => setCodeRain((v) => !v)}
-              aria-pressed={codeRain}
-              className="inline-flex items-center gap-2 rounded-full border border-border/70 px-4 py-3 text-sm font-medium text-muted transition-colors hover:border-accent/60 hover:text-accent"
-            >
-              <Binary size={16} /> {codeRain ? "Disable" : "Enable"} Code Rain
-            </button>
+            <MagneticButton variant="ghost" href="#contact">
+              <Mail size={16} /> Contact Me
+            </MagneticButton>
           </motion.div>
 
-          <motion.div variants={item} className="flex items-center gap-3 pt-2">
+          <motion.div variants={item} className="flex items-center gap-3 pt-1">
             {socials.map((s) => (
               <a
                 key={s.name}
@@ -116,6 +125,13 @@ export function Hero({ onOpenResume }: { onOpenResume: () => void }) {
                 <SocialIcon name={s.icon} size={18} />
               </a>
             ))}
+            <button
+              onClick={() => setCodeRain((v) => !v)}
+              aria-pressed={codeRain}
+              className="inline-flex items-center gap-2 rounded-full border border-border/70 px-4 py-2.5 text-xs font-medium text-muted transition-colors hover:border-accent/60 hover:text-accent"
+            >
+              <Binary size={15} /> {codeRain ? "Disable" : "Enable"} Code Rain
+            </button>
           </motion.div>
         </motion.div>
 
@@ -130,16 +146,27 @@ export function Hero({ onOpenResume }: { onOpenResume: () => void }) {
             <div className="absolute -inset-3 rounded-[2rem] bg-gradient-to-tr from-accent to-accent-secondary opacity-60 blur-2xl" />
             <div className="glass-strong relative overflow-hidden rounded-[1.8rem] p-2">
               <div className="relative aspect-[4/5] overflow-hidden rounded-[1.4rem] bg-gradient-to-br from-accent/20 to-accent-secondary/20">
-                {/* Profile image — replace /public/images/profile.jpg */}
+                {/* Profile image — drop your optimized photo at public/images/profile.jpg */}
                 <img
                   src={personal.profileImage}
-                  alt={`${personal.name} — Data Analyst & Computer Science Engineer`}
+                  alt={`${personal.name} — Data Analyst & AI Automation Engineer`}
                   className="h-full w-full object-cover"
                   loading="eager"
+                  fetchPriority="high"
+                  decoding="async"
+                  onError={(e) => {
+                    const img = e.currentTarget;
+                    if (img.src.endsWith(personal.profileImageFallback)) return;
+                    img.src = personal.profileImageFallback;
+                  }}
                 />
+                {/* Cinematic gradient wash for a premium, moody feel */}
+                <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-black/10" />
                 <div className="absolute inset-x-2 bottom-2 glass rounded-xl px-3 py-2 text-xs">
-                  <p className="font-semibold text-foreground">{personal.name}</p>
-                  <p className="text-muted">Data Analyst · CSE</p>
+                  <p className="font-semibold text-foreground">
+                    {personal.name}
+                  </p>
+                  <p className="text-muted">Data Analyst · AI Automation</p>
                 </div>
               </div>
             </div>
