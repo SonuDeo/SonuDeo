@@ -78,6 +78,43 @@
 
 ---
 
+<h2 align="center">⭐ Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo/End-to-End-Movie-Recommendation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=End-to-End-Movie-Recommendation-System&theme=tokyonight&hide_border=true" alt="Movie Recommendation System"/>
+  </a>
+  <a href="https://github.com/SonuDeo/End-to-End-Airbnb-Price-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=End-to-End-Airbnb-Price-Prediction&theme=tokyonight&hide_border=true" alt="Airbnb Price Prediction"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo/Medicine-Recognition-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Medicine-Recognition-System&theme=tokyonight&hide_border=true" alt="Medicine Recognition System"/>
+  </a>
+  <a href="https://github.com/SonuDeo/Multi-Agentic-Blog-Generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Multi-Agentic-Blog-Generation&theme=tokyonight&hide_border=true" alt="Multi-Agentic Blog Generation"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo/MarketInsight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=MarketInsight&theme=tokyonight&hide_border=true" alt="MarketInsight"/>
+  </a>
+  <a href="https://github.com/SonuDeo/DocGenius-Revolutionizing-PDFs-with-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=DocGenius-Revolutionizing-PDFs-with-AI&theme=tokyonight&hide_border=true" alt="DocGenius"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo?tab=repositories">
+    <img src="https://img.shields.io/badge/%F0%9F%93%82%20View%20All%20Repositories%20%E2%86%92-6366f1?style=for-the-badge&labelColor=1a1b27" alt="View all repositories"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <h3 align="center">Languages</h3>
@@ -141,6 +178,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuDeo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
+
+---
+
+<h2 align="center">⏱️ Weekly Coding Stats</h2>
+
+<p align="center"><sub>Powered by WakaTime — updates automatically once configured (see notes below).</sub></p>
+
+<!--START_SECTION:waka-->
+```text
+No activity tracked yet — connect WakaTime to populate this section.
+```
+<!--END_SECTION:waka-->
 
 ---
 
