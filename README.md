@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sonu Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <a href="https://sonu-kumar.vercel.app">
+  <a href="https://portfolio-lime-three-16.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sonu-45-kumar/">
@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sonu-kumar.vercel.app">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio%20%E2%86%92-sonu--kumar.vercel.app-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Explore my portfolio"/>
+  <a href="https://portfolio-lime-three-16.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio%20%E2%86%92-portfolio--lime--three--16.vercel.app-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Explore my portfolio"/>
   </a>
 </p>
 
@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sonu-kumar.vercel.app">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20View%20Live%20Portfolio-sonu--kumar.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="View live portfolio"/>
+  <a href="https://portfolio-lime-three-16.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20View%20Live%20Portfolio-portfolio--lime--three--16.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="View live portfolio"/>
   </a>
   &nbsp;
   <a href="https://github.com/SonuDeo/Portfolio">
@@ -149,8 +149,11 @@
 <h3 align="center">"Code. Learn. Build. Repeat."</h3>
 
 <p align="center">
-  <a href="https://sonu-kumar.vercel.app">
+  <a href="https://portfolio-lime-three-16.vercel.app">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-6366f1?style=for-the-badge&labelColor=1a1b27" alt="Visit my portfolio"/>
+  </a>
+  <a href="https://portfolio-lime-three-16.vercel.app/Sonu_Kumar_Resume.pdf">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Download%20Resume-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Download resume"/>
   </a>
   <a href="https://www.linkedin.com/in/sonu-45-kumar/">
     <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Let's%20Connect-0077B5?style=for-the-badge&labelColor=1a1b27" alt="Connect on LinkedIn"/>
