@@ -181,18 +181,6 @@
 
 ---
 
-<h2 align="center">⏱️ Weekly Coding Stats</h2>
-
-<p align="center"><sub>Powered by WakaTime — updates automatically once configured (see notes below).</sub></p>
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked yet — connect WakaTime to populate this section.
-```
-<!--END_SECTION:waka-->
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
