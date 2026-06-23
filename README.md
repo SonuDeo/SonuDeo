@@ -29,9 +29,6 @@
 <!-- ============ STATUS BADGES ============ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SonuDeo&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/SonuDeo?tab=followers">
-    <img src="https://img.shields.io/github/followers/SonuDeo?label=Followers&style=flat-square&color=6366f1&logo=github" alt="Followers"/>
-  </a>
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat-square" alt="Open to collaboration"/>
 </p>
 
@@ -52,6 +49,20 @@
 - 🎓 Certified by **Anthropic, Microsoft, and Deloitte**
 - 🤝 Open to collaborations on data analytics and data science projects
 - 📫 Reach me at **sonudeo346@gmail.com**
+
+---
+
+<h2 align="center">🌱 Now / Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-6366f1?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-2ea44f?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+</p>
+
+<p align="center">
+  <sub>🤖 Building autonomous AI agents · ⚙️ Automating workflows with n8n & APIs · 📚 Designing RAG pipelines for grounded LLM answers</sub>
+</p>
 
 ---
 
@@ -104,6 +115,15 @@
   </a>
   <a href="https://github.com/SonuDeo/DocGenius-Revolutionizing-PDFs-with-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=DocGenius-Revolutionizing-PDFs-with-AI&theme=tokyonight&hide_border=true" alt="DocGenius"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SonuDeo/Indian-Restaurants-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Indian-Restaurants-Data-Analysis&theme=tokyonight&hide_border=true" alt="Indian Restaurants Data Analysis"/>
+  </a>
+  <a href="https://github.com/SonuDeo/Wine-Quality-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuDeo&repo=Wine-Quality-Prediction&theme=tokyonight&hide_border=true" alt="Wine Quality Prediction"/>
   </a>
 </p>
 
@@ -172,6 +192,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuDeo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<h3 align="center">📈 Most Used Language Over Time</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python primary language"/>
+</p>
+
+<p align="center">
+  <code>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████████████████░&nbsp;&nbsp;92%</code><br/>
+  <code>SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░░░░░░░░░░░░░░░░░░░&nbsp;&nbsp;&nbsp;4%</code><br/>
+  <code>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█░░░░░░░░░░░░░░░░░░░░&nbsp;&nbsp;&nbsp;4%</code>
+</p>
+
+<p align="center">
+  <sub>Python has been my primary language across data analysis, machine learning, and automation projects.</sub>
 </p>
 
 <!-- ============ ACTIVITY GRAPH ============ -->
