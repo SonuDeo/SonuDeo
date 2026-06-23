@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sonu-kumar.vercel.app">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio%20%E2%86%92-sonu--kumar.vercel.app-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Explore my portfolio"/>
+  <a href="[https://portfolio-lime-three-16.vercel.app/]">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio%20%E2%86%92-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Explore my portfolio"/>
   </a>
 </p>
 
