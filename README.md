@@ -1,17 +1,29 @@
 <h1 align="center">Hi there, I'm Sonu Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
+  <a href="https://sonu-kumar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/sonu-45-kumar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sonudeo346@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/SonuDeo/Portfolio">
+    <img src="https://img.shields.io/badge/Source-Repository-121011?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository"/>
+  </a>
 </p>
 
 <p align="center">
   <b>Data Analyst | Aspiring Data Scientist</b><br/>
   Turning raw data into meaningful insights through analytics, visualization, and machine learning.
+</p>
+
+<p align="center">
+  <a href="https://sonu-kumar.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio%20%E2%86%92-sonu--kumar.vercel.app-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Explore my portfolio"/>
+  </a>
 </p>
 
 ---
@@ -24,6 +36,29 @@
 - Exploring **AI tools (Claude) and workflow automation**
 - Certified by **Anthropic, Microsoft, and Deloitte**
 - Open to collaborations on data analytics and data science projects
+
+---
+
+<h2 align="center">🌐 My Portfolio</h2>
+
+<p align="center">
+  A premium, animated portfolio showcasing my projects, case studies, skills, and experience —
+  with live GitHub integration and recruiter-focused metrics.
+</p>
+
+<p align="center">
+  <a href="https://sonu-kumar.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20View%20Live%20Portfolio-sonu--kumar.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="View live portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SonuDeo/Portfolio">
+    <img src="https://img.shields.io/badge/%F0%9F%93%82%20Source%20Code-SonuDeo%2FPortfolio-121011?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Built with Next.js · TypeScript · Tailwind CSS · Framer Motion — deployed on Vercel</sub>
+</p>
 
 ---
 
@@ -112,6 +147,15 @@
 ---
 
 <h3 align="center">"Code. Learn. Build. Repeat."</h3>
+
+<p align="center">
+  <a href="https://sonu-kumar.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-6366f1?style=for-the-badge&labelColor=1a1b27" alt="Visit my portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonu-45-kumar/">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Let's%20Connect-0077B5?style=for-the-badge&labelColor=1a1b27" alt="Connect on LinkedIn"/>
+  </a>
+</p>
 
 <p align="center">
   <b>Sonu Kumar</b>
