@@ -48,26 +48,19 @@ export const siteConfig = {
 export const personal = {
   name: "Sonu Kumar",
   firstName: "Sonu",
-  githubUsername: "SonuDeo",
   roles: [
-    "Data Analyst",
-    "AI Automation Engineer",
     "Computer Science Engineer",
-    "Business Intelligence Developer",
+    "Data Analyst",
+    "AI Enthusiast",
+    "Full Stack Developer",
   ],
-  tagline: "Data Analyst · AI Automation Engineer · Computer Science Engineer",
-  headline: "Transforming Data Into Intelligent Business Decisions",
-  subheadline:
-    "Data Analyst, AI Automation Engineer, and Computer Science Engineer building data-driven systems and intelligent workflows.",
-  location: "India",
+  tagline: "AI Enthusiast · Data Analyst · Full Stack Developer",
+  headline: "I turn raw data into decisions.",
+  location: "Punjab, India",
   email: "sonudeo346@gmail.com",
-  phone: "+91 94308 36870",
-  phoneHref: "+919430836870",
+  phone: "+91 94380 84970",
   resumeUrl: "/resume/Sonu_Kumar_Resume.pdf",
-  // Drop your optimized photo at public/images/profile.jpg.
-  // Falls back to the styled SVG placeholder until the JPG is added.
-  profileImage: "/images/profile.jpg",
-  profileImageFallback: "/images/profile.svg",
+  profileImage: "/images/profile.svg",
   available: true,
   summary:
     "Data Analytics fresher with hands-on experience in Python, SQL, Power BI, Tableau and data visualization. I transform raw data into actionable insights — building dashboards, automating workflows and supporting data-driven decision-making for startups and product companies.",
@@ -103,7 +96,6 @@ export const navLinks = [
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
   { label: "Projects", href: "#projects" },
-  { label: "GitHub", href: "#github" },
   { label: "Experience", href: "#experience" },
   { label: "Education", href: "#education" },
   { label: "Achievements", href: "#achievements" },

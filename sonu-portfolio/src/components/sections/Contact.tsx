@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { MapPin, Send, CheckCircle2, Phone, Download } from "lucide-react";
+import { MapPin, Send, CheckCircle2 } from "lucide-react";
 import { personal, socials } from "@/data/portfolio";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { SocialIcon } from "@/components/ui/SocialIcon";
@@ -58,19 +58,6 @@ export function Contact() {
               </div>
             </a>
 
-            <a
-              href={`tel:${personal.phoneHref}`}
-              className="card-surface flex items-center gap-3 p-4 hover:border-accent/40"
-            >
-              <span className="grid h-10 w-10 place-items-center rounded-xl bg-accent/15 text-accent">
-                <Phone size={18} />
-              </span>
-              <div>
-                <p className="text-xs text-muted">Phone</p>
-                <p className="text-sm font-semibold">{personal.phone}</p>
-              </div>
-            </a>
-
             <div className="card-surface flex items-center gap-3 p-4">
               <span className="grid h-10 w-10 place-items-center rounded-xl bg-accent/15 text-accent">
                 <MapPin size={18} />
@@ -80,22 +67,6 @@ export function Contact() {
                 <p className="text-sm font-semibold">{personal.location}</p>
               </div>
             </div>
-
-            <a
-              href={personal.resumeUrl}
-              download
-              target="_blank"
-              rel="noopener noreferrer"
-              className="card-surface flex items-center gap-3 p-4 hover:border-accent/40"
-            >
-              <span className="grid h-10 w-10 place-items-center rounded-xl bg-accent/15 text-accent">
-                <Download size={18} />
-              </span>
-              <div>
-                <p className="text-xs text-muted">Resume</p>
-                <p className="text-sm font-semibold">Download PDF</p>
-              </div>
-            </a>
           </div>
 
           <div className="flex gap-3">
