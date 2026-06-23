@@ -21,7 +21,7 @@ export const siteConfig = {
   shortName: "Sonu Kumar",
   description:
     "Portfolio of Sonu Kumar — Data Analyst and Computer Science Engineer specialising in Python, SQL, Power BI, Tableau, AI automation and data visualization. Open to internships and full-time data & software roles.",
-  url: "https://sonu-kumar.vercel.app",
+  url: "https://portfolio-w5p8.vercel.app",
   ogImage: "/images/og-image.svg",
   locale: "en_US",
   keywords: [
